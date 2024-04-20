@@ -1,6 +1,53 @@
 ﻿@{
     ViewData["Title"] = "Registro";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>hi.</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h2>@ViewData["Title"]</h2>
+    <form asp-action="Crear" method="post">
+        <div style="margin-bottom: 40px;">
+            <table style="width: 50%;">
+
+                <tr>
+                    <td><label> Cédula: </label></td>
+                    <td><input type="text" style="margin-top: 10px;" name="cedula" /></td>
+                </tr>
+
+                <tr>
+                    <td><label> Estrato: </label></td>
+                    <td><input type="text" style="margin-top: 10px;" name="estrato" /></td>
+                </tr>
+                <tr>
+                    <td><label> Meta de ahorro: </label></td>
+                    <td><input type="text" style="margin-top: 10px;" name="meta_ahorro"  /></td>
+                </tr>
+                <tr>
+                    <td><label> Consumo de energía: </label></td>
+                    <td><input type="text" style="margin-top: 10px;" name="consumo_energia"/></td>
+                </tr>
+                <tr>
+                    <td><label> Consumo de agua: </label></td>
+                    <td><input type="text" style="margin-top: 10px;" name="consumo_agua" /></td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <button type="submit" class="btn btn-primary">Crear Cliente</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+    <label id="sumaConsumoAhorro">
+        @ViewData["SumaConsumoAhorro"]
+    </label>
+
+</body>
+</html>

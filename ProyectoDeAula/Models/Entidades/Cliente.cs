@@ -1,7 +1,7 @@
 ﻿namespace ProyectoDeAula.Models.Entidades
     //el anterior era clientess
 {
-    class Cliente
+    public class Cliente
     { 
             public int cedula { get; set;  }
             //[Required(ErrorMessage = "el campo {0} es obligatorio")]
@@ -19,14 +19,18 @@
                     this.consumo_energia = consumo_energia;
                     this.consumo_agua = consumo_agua;
             }
-            public void ActualizarCliente(int nuevaCedula, int nuevoEstrato, int nuevaMetaAhorro, int nuevoConsumoEnergia, int nuevoConsumoDeAgua)
-            {
+        public Cliente()
+        {
+        }
+
+        public void ActualizarCliente(int nuevaCedula, int nuevoEstrato, int nuevaMetaAhorro, int nuevoConsumoEnergia, int nuevoConsumoDeAgua)
+        {
                 this.cedula = nuevaCedula;
                 this.estrato = nuevoEstrato;
                 this.meta_ahorro = nuevaMetaAhorro;
                 this.consumo_energia = nuevoConsumoEnergia;
                 this.consumo_agua = nuevoConsumoDeAgua;
-            }
+        }
     }
 }
 
