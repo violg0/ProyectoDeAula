@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Actualizar_datos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY3R1YWxpemFyX2RhdG9zLmNzaHRtbA==
+[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Factura.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYWN0dXJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Index.cshtml]
@@ -30,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Registrar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXIuY3NodG1s
+[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Shared/Error.cshtml]

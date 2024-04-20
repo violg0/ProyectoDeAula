@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoDeAula.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ProyectoDeAula.bundle.scp.css"
+      "Id": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoDeAula.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoDeAula.props",
-      "PackagePath": "build\\ProyectoDeAula.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props",
+      "PackagePath": "build\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoDeAula.props",
-      "PackagePath": "buildMultiTargeting\\ProyectoDeAula.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoDeAula.props",
-      "PackagePath": "buildTransitive\\ProyectoDeAula.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props",
+      "PackagePath": "buildTransitive\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.props"
     }
   ],
   "ElementsToRemove": []

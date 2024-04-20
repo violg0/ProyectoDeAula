@@ -23,7 +23,12 @@ namespace ProyectoDeAula.Controllers
             return View();
         }
 
-        public IActionResult Actualizar_datos()
+        public IActionResult Registro()
+        {
+            return View();
+        }
+
+        public IActionResult Factura()
         {
             return View();
         }
