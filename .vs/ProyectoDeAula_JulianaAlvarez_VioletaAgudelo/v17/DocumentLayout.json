@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\entidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProyectoDeAula\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T14:43:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Program.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:00:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
@@ -91,20 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Registro.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Registro.cshtml",
               "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Registro.cshtml",
               "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Registro.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAMAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-20T15:13:44.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Factura.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
@@ -128,20 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswD4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T20:56:22.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "RelativeDocumentMoniker": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
@@ -153,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GestionClientes.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
@@ -165,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
@@ -177,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Index.cshtml",
@@ -189,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Context.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Context.cs",
@@ -201,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\appsettings.json",
               "RelativeDocumentMoniker": "ProyectoDeAula\\appsettings.json",
@@ -213,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ServicioCliente.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Services\\ServicioCliente.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Services\\ServicioCliente.cs",
@@ -225,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\_ViewStart.cshtml",
@@ -237,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
               "RelativeDocumentMoniker": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
@@ -248,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Program.cs",

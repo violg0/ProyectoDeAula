@@ -52,11 +52,15 @@ namespace ProyectoDeAula.Controllers
 
             // Pasa la suma a la vista
             ViewData["SumaConsumoAhorro"] = sumaConsumoAhorro;
-
-            // Puedes hacer otras operaciones aquí, como guardar el cliente en la base de datos, etc.
+            ViewData["SumaConsumoAhorro"] = sumaConsumoAhorro;
+            ViewData["Clientes"] = cliente;
 
             // Devuelve la vista con el resultado
             return View("Registro", cliente);
+
+            // Puedes hacer otras operaciones aquí.
+
+            return View("Registro", cliente);   
         }
 
 
