@@ -45,7 +45,7 @@ namespace ProyectoDeAula.Controllers
         [HttpPost]
         public IActionResult Crear(Cliente cliente)
         {
-            // Aquí puedes agregar validaciones si es necesario
+            // agregar validaciones si es necesario
 
             // Calcula la suma del consumo de agua y la meta de ahorro
             int sumaConsumoAhorro = cliente.consumo_agua + cliente.meta_ahorro;
@@ -59,11 +59,36 @@ namespace ProyectoDeAula.Controllers
             return View("Registro", cliente);
 
             // Puedes hacer otras operaciones aquí.
-
-            return View("Registro", cliente);   
         }
 
+        private static List<Cliente> clientes = new List<Cliente>();
+
+        // Otros miembros del controlador...
+
+        [HttpPost]
+        public IActionResult Registrar(Cliente cliente)
+        {
+            if (ModelState.IsValid)
+            {
+                GestionClientes.AgregarClientes(clientes, cliente);
+                return View("Registro", new Cliente());
+
+            }
+            else
+            { 
+                return View("Registro", cliente);
+            }
+        }
+        public IActionResult MostrarClientes()
+        {
+            // Aquí obtienes la lista de clientes y la pasas a la vista
+            return View("MostrarClientes", clientes);
+        }
+        public IActionResult TextoClientes()
+        {
+            var textoClientes = GestionClientes.MostrarClientes(clientes);
+            return Content(textoClientes);
+        }
 
     }
-   
 }
