@@ -1,74 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\views\\home\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\entidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\views\\home\\consumoagua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\consumoagua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\entidades\\calculopagoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\downloads\\proyectodeaula (1)\\proyectodeaula\\proyectodeaula\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\proyectodeaula_julianaalvarezvioletaagudelo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\services\\serviciocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\services\\serviciocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|c:\\users\\acer\\workspace\\epm\\proyectodeaula\\proyectodeaula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D46396-404D-478C-B665-01618D4B7594}|ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj|solutionrelative:proyectodeaula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,212 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProyectoDeAula\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-21T14:43:02.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAADwv1YAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T20:56:22.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T21:09:47.608Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:23:21.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Program.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T22:00:45.621Z",
+              "Title": "ConsumoAgua.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\ConsumoAgua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:17:14.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Registro.cshtml",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Registro.cshtml",
-              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Registro.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T15:13:44.666Z",
+              "DocumentIndex": 5,
+              "Title": "CalculoPagoClientes.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\CalculoPagoClientes.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:49:58.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agua.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\Agua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:48:26.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProyectoDeAula\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T21:09:14.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Factura.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
               "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Factura.cshtml",
               "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Factura.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T15:34:42.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GestionClientes.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Models\\Entidades\\GestionClientes.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:28:05.147Z",
+              "WhenOpened": "2024-04-24T04:44:56.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "RelativeToolTip": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T18:37:14.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T21:05:07.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T18:53:51.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Context.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Models\\Context.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Models\\Context.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Models\\Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoDeAula\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAH8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:57:51.523Z"
+              "WhenOpened": "2024-04-24T03:40:25.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\appsettings.json",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\appsettings.json",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\appsettings.json",
-              "RelativeToolTip": "ProyectoDeAula\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-19T19:37:09.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServicioCliente.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Services\\ServicioCliente.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Services\\ServicioCliente.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Services\\ServicioCliente.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Services\\ServicioCliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T19:03:17.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ProyectoDeAula\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "RegistrarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "RelativeToolTip": "ProyectoDeAula\\Views\\Home\\RegistrarCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T18:53:42.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "RelativeToolTip": "ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T18:45:42.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoDeAula\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\Program.cs",
-              "RelativeToolTip": "ProyectoDeAula\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T18:13:09.785Z"
+              "WhenOpened": "2024-04-24T03:29:47.11Z",
+              "EditorCaption": ""
             }
           ]
         }

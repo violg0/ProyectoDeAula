@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {}
+    "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {
+    "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
         "projectName": "ProyectoDeAula_JulianaAlvarezVioletaAgudelo",
-        "projectPath": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
+        "projectPath": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\ProyectoDeAula_JulianaAlvarezVioletaAgudelo.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\workspace\\epm\\ProyectoDeAula\\ProyectoDeAula\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Downloads\\ProyectoDeAula (1)\\ProyectoDeAula\\ProyectoDeAula\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

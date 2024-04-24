@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Información";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+
+    <style>
+        .boton {
+            background-color: transparent;
+            border: 2px solid #333;
+            color: #333;
+            font-size: 16px;
+            padding: 10px 20px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>@ViewData["Title"]</h2>
+
+    <div class="buttons">
+        <!-- Enlace para Registrar Cliente -->
+        <a href="@Url.Action("RegistrarCliente", "Home")" class="boton">Registrar Cliente</a>
+
+        <!-- Botón para Actualizar información cliente -->
+        @Html.ActionLink("Actualizar información cliente", "ActualizarCliente", "Datos", null, new { @class = "boton", id = "Boton2" })
+
+        <!-- Botón para Eliminar -->
+        @Html.ActionLink("Eliminar", "EliminarCliente", "Datos", null, new { @class = "boton", id = "Boton3" })
+    </div>
+
+    <div id="contenidoRegistrarCliente">
+        <!-- Aquí se cargará el contenido del formulario RegistrarCliente.cshtml -->
+    </div>
+
+    <label id="newcliente">@ViewData["newcliente"]</label>
+
+    <form asp-action="TextoClientes" method="post">
+        <button type="submit">Mostrar Clientes</button>
+    </form>
+
+</body>
+</html>
+
+
+
+
+
+
+

@@ -8,4 +8,20 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Use </p>
+@model int?
+
+<form method="post" action="/Home/CalcularPago">
+    <label for="cedula">Ingrese la cédula del cliente:</label>
+    <input type="text" id="cedula" name="cedula">
+    <button type="submit">Calcular Pago</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p>@ViewBag.Error</p>
+}
+
+@if (ViewBag.ValorAPagar != null)
+{
+    <p>El valor a pagar es: @ViewBag.ValorAPagar</p>
+}

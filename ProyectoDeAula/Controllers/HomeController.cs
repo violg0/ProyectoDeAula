@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using ProyectoDeAula.Models.Entidades;
 using ProyectoDeAula.Models;
 using System.Diagnostics;
+using ProyectoDeAula_JulianaAlvarezVioletaAgudelo.Models.Entidades;
 
 
 namespace ProyectoDeAula.Controllers
@@ -25,14 +26,25 @@ namespace ProyectoDeAula.Controllers
             return View();
         }
 
-        public IActionResult Registro()
+        public IActionResult Datos()
         {
+            ViewData["Title"] = "Informacion";
             return View();
         }
 
         public IActionResult Factura()
         {
             return View();
+        }
+
+        public IActionResult RegistrarCliente() 
+        { 
+            return PartialView("RegistrarCliente");
+        }
+
+        public IActionResult ConsumoAgua()
+        {
+            return PartialView("ConsumoAgua");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
@@ -45,25 +57,20 @@ namespace ProyectoDeAula.Controllers
         [HttpPost]
         public IActionResult Crear(Cliente cliente)
         {
-            // agregar validaciones si es necesario
-
-            // Calcula la suma del consumo de agua y la meta de ahorro
+            
             int sumaConsumoAhorro = cliente.consumo_agua + cliente.meta_ahorro;
 
-            // Pasa la suma a la vista
             ViewData["SumaConsumoAhorro"] = sumaConsumoAhorro;
             ViewData["SumaConsumoAhorro"] = sumaConsumoAhorro;
             ViewData["Clientes"] = cliente;
 
-            // Devuelve la vista con el resultado
+         
             return View("Registro", cliente);
 
-            // Puedes hacer otras operaciones aquí.
         }
 
         private static List<Cliente> clientes = new List<Cliente>();
 
-        // Otros miembros del controlador...
 
         [HttpPost]
         public IActionResult Registrar(Cliente cliente)
@@ -71,17 +78,17 @@ namespace ProyectoDeAula.Controllers
             if (ModelState.IsValid)
             {
                 GestionClientes.AgregarClientes(clientes, cliente);
-                return View("Registro", new Cliente());
+                return View("RegistrarCliente", new Cliente());
 
             }
             else
             { 
-                return View("Registro", cliente);
+                return View("RegistrarCliente", cliente);
             }
         }
+
         public IActionResult MostrarClientes()
         {
-            // Aquí obtienes la lista de clientes y la pasas a la vista
             return View("MostrarClientes", clientes);
         }
         public IActionResult TextoClientes()
@@ -90,5 +97,53 @@ namespace ProyectoDeAula.Controllers
             return Content(textoClientes);
         }
 
+
+        [HttpGet]
+        public IActionResult factura()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CalcularPago(int cedula)
+        {
+
+            Cliente? cliente = clientes.FirstOrDefault(c => c.Cedula == cedula);
+
+            if (cliente != null)
+            {
+
+                int valorAPagar = CalculoPagoCliente.CalcularValorAPagar(cliente, clientes);
+                ViewBag.ValorAPagar = valorAPagar;
+            }
+            else
+            {
+
+                ViewBag.Error = "No se encontró un cliente con esa cédula.";
+            }
+
+            return View("Factura");
+        }
+        [HttpPost]
+        public IActionResult aguaconsumo()
+        {
+            int promedio_agua = Agua.CalcularPromedioConsumoAgua(clientes);
+
+            List<int> clientes_mayor = Agua.MostrarClientesConConsumoAguaMayorAlPromedio(clientes);
+
+            int estrato_mas_ahorro = Agua.EstratoConMayorAhorroDeAgua(clientes);
+
+            ViewData["promedioagua"] = promedio_agua;
+            ViewData["estratomasahorro"] = estrato_mas_ahorro;
+
+            string estratosString = string.Join(", ", clientes_mayor);
+
+            ViewData["consumomayor"] = estratosString;
+
+            return View("ConsumoAgua", clientes);
+        }
     }
+
 }
+
+

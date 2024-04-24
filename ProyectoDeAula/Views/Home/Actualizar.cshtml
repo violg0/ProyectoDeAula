@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Actualizar Información Cliente";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="" />
+</head>
+<body>
+    <div>
+        <h3>Actualizar Información Cliente</h3>
+        @if (!string.IsNullOrEmpty(ViewBag.Notificacion))
+        {
+            <div class="alert alert-danger">@ViewBag.Notificacion</div>
+        }
+
+        <div class="buttons">
+            <!-- Botón para Registrar Cliente -->
+            <form action="/Home/RegistrarCliente" method="get">
+                <button type="submit" class="boton">Registrar Cliente</button>
+            </form>
+
+            <!-- Botón para Actualizar información cliente -->
+            <form action="/Datos/ActualizarCliente" method="get">
+                <button type="submit" class="boton" id="Boton2">Actualizar información cliente</button>
+            </form>
+
+            <!-- Botón para Eliminar -->
+            <form action="/Datos/EliminarCliente" method="get">
+                <button type="submit" class="boton" id="Boton3">Eliminar</button>
+            </form>
+        </div>
+
+        <h4>Por favor ingresar su identificación para actualizar la información</h4>
+        @using (Html.BeginForm("verificarParaActualizarHistoria", "Home", FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td><label>Identificación:</label></td>
+                    <td><input type="text" name="id" pattern="[0-9]+" oninput="this.value=this.value.replace(/[^0-9]/g,'');" value=" " /></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="enviar" value="Enviar" /></td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>
+

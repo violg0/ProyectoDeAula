@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Eliminar Información Cliente";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="" />
+</head>
+<body>
+    <div>
+        <h3>Eliminar Información Cliente</h3>
+        @if (!string.IsNullOrEmpty(ViewBag.Notificacion))
+        {
+            <div class="alert alert-danger">@ViewBag.Notificacion</div>
+        }
+
+        <div class="buttons">
+            <!-- Botón para Registrar Cliente -->
+            <form asp-controller="Home" asp-action="RegistrarCliente" method="get">
+                <button type="submit" class="boton">Registrar Cliente</button>
+            </form>
+
+            <!-- Botón para Actualizar información cliente -->
+            @Html.ActionLink("Actualizar información cliente", "ActualizarCliente", "Datos", null, new { @class = "boton", id = "Boton2" })
+
+            <!-- Botón para Eliminar -->
+            @Html.ActionLink("Eliminar", "EliminarCliente", "Datos", null, new { @class = "boton", id = "Boton3" })
+        </div>
+
+        <h4>Por favor ingresar su identificación para eliminar el cliente</h4>
+        @using (Html.BeginForm("verificarParaEliminar", "Home", FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td><label>Identificación:</label></td>
+                    <td><input type="text" name="id" pattern="[0-9]+" oninput="this.value=this.value.replace(/[^0-9]/g,'');" value=" " /></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="enviar" value="Enviar" /></td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

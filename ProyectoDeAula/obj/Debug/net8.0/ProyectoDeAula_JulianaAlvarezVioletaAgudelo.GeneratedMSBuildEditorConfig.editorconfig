@@ -9,47 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoDeAula_JulianaAlvarezVioletaAgudelo
 build_property.RootNamespace = ProyectoDeAula_JulianaAlvarezVioletaAgudelo
-build_property.ProjectDir = C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula\
+build_property.ProjectDir = C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\acer\workspace\epm\ProyectoDeAula\ProyectoDeAula
+build_property.MSBuildProjectDirectory = C:\Users\acer\Downloads\ProyectoDeAula (1)\ProyectoDeAula\ProyectoDeAula
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Factura.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY3R1YWxpemFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/ConsumoAgua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25zdW1vQWd1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/Datos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/EliminarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbGltaW5hckNsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/Factura.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYWN0dXJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Index.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Privacy.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Home/Registro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryby5jc2h0bWw=
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Home/RegistrarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Shared/Error.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/_ViewImports.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/_ViewStart.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acer/workspace/epm/ProyectoDeAula/ProyectoDeAula/Views/Shared/_Layout.cshtml]
+[C:/Users/acer/Downloads/ProyectoDeAula (1)/ProyectoDeAula/ProyectoDeAula/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i50l2scer1
